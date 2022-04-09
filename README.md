@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL: ](https://github.com/jmblack15/FrontEnd-Mentor-Challenges/tree/main/Stats-preview-card-component)
-- [Live Site URL: ](https://stats-preview-card-component-jmblack15.vercel.app/)
+- [Solution URL: ](https://github.com/jmblack15/Stats-preview-card-component)
+- [Live Site URL: ](https://jmblack15.github.io/Stats-preview-card-component/)
 
 ## My process
 
